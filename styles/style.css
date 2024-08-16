@@ -1,0 +1,168 @@
+.banner{
+    margin: 0;
+    padding: 0;
+    border: 2px solid red;
+    background: black;
+}
+.nav-bar{
+    margin-top: 2.9vw;
+    margin-left: 9.8vw;
+    margin-right: 9.8vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.banner h1{
+    color: red;
+font-family: Inter;
+font-size:  1.8vw;
+font-weight: 800;
+}
+nav ul{
+    display: flex;
+    gap: 1.8vw;
+    list-style-type: none;
+}
+nav ul a{
+    text-decoration: none;
+    color: white;
+}
+.home{
+    background-color: red;
+    width: 4.7vw;
+    height: 1.9vw;
+    padding: 0.4vw 1.4vw;
+    border-radius:  2.396vw;
+}
+.banner-content{
+    display: flex;
+    justify-content: ;
+
+}
+.banner-text{
+    margin-left: 9.896vw;
+    margin-bottom: 3.958vw;
+}
+.banner-text h1{
+    font-size:  4.063vw;
+    font-family: inter;
+    font-weight: 900;
+    color: white;
+}
+.banner-text p{
+    color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 0.833vw;
+font-weight: 400;
+line-height:  1.25vw;
+letter-spacing: 0.026vw;
+text-align: left;
+}
+.join-club{
+    width: 11.667vw;
+height: 2.813vw;
+    border-radius: 2.188vw;
+
+background: rgb(230, 83, 60);
+color: white;
+
+}
+.download{ 
+
+width: 11.667vw;
+height:2.813vw;
+border-radius: 2.188vw;
+padding: 0.833vw 2.083vw;
+background-color: black;
+color: white;
+border: 1px solid rgb(255, 255, 255);
+ 
+}
+.banner-content img{
+    width:18.177vw;
+height: 30.208vw;
+left: 45.677vw;
+top: 7.031vw;
+}
+.habit{
+    margin: 0;
+    padding: 0;
+    border: 2px solid red;
+    background: 
+}
+.habit-content{
+    margin-top: 2.9vw;
+    margin-left: 9.8vw;
+    margin-right: 9.8vw;
+    
+}
+.habit-cards{
+    display: flex;
+}
+
+.extra-mile-content{
+    display: flex;
+
+}
+.extra-mile-text{
+    width: 50%;
+}
+.extra-mile-image{
+    width: 50%;
+}
+.calculator{
+    margin: 0;
+    padding: 0;
+    border: 2px solid red;
+    background: 
+}
+.cal-chart-bmi{
+    display: flex;
+}
+.cal-chart{
+    width: 50%;
+}
+.cal-bmi{
+    width: 50%;
+}
+.team{
+    margin: 0;
+    padding: 0;
+    border: 2px solid red;
+    background: 
+}
+.special{
+    margin-top: 2.9vw;
+    margin-left: 9.8vw;
+    margin-right: 9.8vw;
+    
+}
+.members{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.footer{
+    margin: 0;
+    padding: 0;
+    border: 2px solid red;
+    background: 
+}
+.footer-content{
+    display: flex;
+
+}
+.service-options{
+    display: flex;
+}
+.feature {
+    width: 50%;
+}
+.service-options{
+    width: 50%;
+}
+.getstarted-one{
+    width: 50%;
+}
+.getstarted-two{
+    width: 50%;
+}
